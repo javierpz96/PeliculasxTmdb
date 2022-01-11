@@ -1,6 +1,6 @@
 Este proyecto es una pequeña web que hace un discover de las peliculas mejores puntuadas de The Movie Database 
 
-![](https://postimg.cc/McNRzX7K)
+![](https://i.postimg.cc/1t5Kcq46/Captura-de-pantalla-2022-01-11-125150.png)
 
 ## Que se usa?
 Esta construido utilizando

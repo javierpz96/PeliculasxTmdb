@@ -1,6 +1,6 @@
 Este proyecto es una pequeña web que hace un discover de las peliculas mejores puntuadas de The Movie Database 
 
-![](https://imgur.com/a/E73GQua)
+![](https://cdn.discordapp.com/attachments/845553235518423054/930491209326133328/Captura_de_pantalla_2022-01-11_125150.png)
 
 ## Que se usa?
 Esta construido utilizando
